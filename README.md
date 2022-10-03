@@ -1,7 +1,7 @@
 # c3-password-randomizer
 ![](Images/Webpage.jpg)
 ## Link
-https://efsoren.github.io/c2-portfolio/
+https://efsoren.github.io/c3-password-randomizer/
 
 ## Description
 This is a webpage that will generate a random password for you based on your desired makeup
