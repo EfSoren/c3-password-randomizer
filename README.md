@@ -1,2 +1,2 @@
 # c3-password-randomizer
-![](.images/Webpage.jpg)
+![](Images/Webpage.jpg)
